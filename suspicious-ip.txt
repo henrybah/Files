@@ -1,4 +1,3 @@
-# Blocked ip addresses list due to suspicious alerts from SOC
 83.97.79.98/32
 80.82.70.133/32
 92.63.197.210/32
